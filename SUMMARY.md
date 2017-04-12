@@ -7,7 +7,7 @@
 * [第二章 开始使用](kai-shi-shi-yong.md)
   * 安装
 * [第三章 基本语法](di-san-zhang-ji-ben-yu-fa.md)
-  * 01 第一个vue程序
-  * 02 实现数据同步
-  * 03 开发TODOlist的APP
+  * [01 第一个vue程序](di-san-zhang-ji-ben-yu-fa/01-di-yi-ge-vue-cheng-xu.md)
+  * [02 实现数据同步](di-san-zhang-ji-ben-yu-fa/02-shi-xian-shu-ju-tong-bu.md)
+  * [03 开发TODOlist的APP](di-san-zhang-ji-ben-yu-fa/03-kai-fa-todolist-de-app.md)
 
